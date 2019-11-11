@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-udemy-course/static/css/main.4d6eb315.chunk.css",
+    "main.js": "/react-udemy-course/static/js/main.eef2b81b.chunk.js",
+    "main.js.map": "/react-udemy-course/static/js/main.eef2b81b.chunk.js.map",
+    "runtime-main.js": "/react-udemy-course/static/js/runtime-main.4859d2a8.js",
+    "runtime-main.js.map": "/react-udemy-course/static/js/runtime-main.4859d2a8.js.map",
+    "static/js/2.975c5e1d.chunk.js": "/react-udemy-course/static/js/2.975c5e1d.chunk.js",
+    "static/js/2.975c5e1d.chunk.js.map": "/react-udemy-course/static/js/2.975c5e1d.chunk.js.map",
+    "index.html": "/react-udemy-course/index.html",
+    "precache-manifest.cad0f98fc3b80fb026dd3fce1adb4f58.js": "/react-udemy-course/precache-manifest.cad0f98fc3b80fb026dd3fce1adb4f58.js",
+    "service-worker.js": "/react-udemy-course/service-worker.js",
+    "static/css/main.4d6eb315.chunk.css.map": "/react-udemy-course/static/css/main.4d6eb315.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4859d2a8.js",
+    "static/js/2.975c5e1d.chunk.js",
+    "static/css/main.4d6eb315.chunk.css",
+    "static/js/main.eef2b81b.chunk.js"
+  ]
+}
